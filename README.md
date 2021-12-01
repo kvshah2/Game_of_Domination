@@ -7,7 +7,7 @@ Two Players: Green and Red Playing Pieces – 18 of each color
 Three Players: Green, Red, and Blue Playing Pieces – 13 of each color
 Four Players: Green, Red, Blue and Yellow Playing Pieces – 13 of each color
 Take one playing piece of each color that is in the game. One player randomly selects one of the pieces to determine who will start the game.
-Setup the gameboard as shown below based on the number of players.
+Setup the gameboard based on the number of players.
 
 # Playing the Game
 On a player’s turn they will make one move. They can either make a single move, a multiple move, or a reserve move.
